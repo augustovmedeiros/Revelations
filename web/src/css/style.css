@@ -5,11 +5,18 @@
     padding: 0;
 
 }
-
+.hamburguer{
+    transition: .7s;
+    width: 5%;
+}
+.hamburguer:hover{
+    transform: scale(1.2);
+    transition: transform .7s ease;
+}
 .logo {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
     background-color: #222222;
     height: 50%;
 }
@@ -21,7 +28,6 @@
 .lupa {
     margin-bottom: 0.5%;
     margin-top: 0.5%;
-    margin-left: 18%;
     width: 3.5%;
     height: 2%;
     transition: .7s;
