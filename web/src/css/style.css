@@ -15,6 +15,7 @@
 .hamburguer:hover{
     transform: scale(1.2);
     transition: transform .7s ease;
+    cursor: pointer;
 }
 .logo {
     display: flex;
@@ -39,6 +40,7 @@
 .lupa:hover {
     transform: scale(1.2);
     transition: transform .7s ease;
+    cursor: pointer;
 }
 
 .navbar {
@@ -49,8 +51,13 @@
     color: white;
     background-color: #c52673;
     height: 50%;
+    cursor: pointer;
 }
-
+.navbar a{
+    all: unset;
+    margin: 1%;
+    transition: 0.7s;
+}
 .navbar button {
     all: unset;
     margin: 1%;
@@ -60,9 +67,14 @@
 .navbar button:hover {
     color: black;
     transition: 0.7s;
+    
 
 }
-
+.navbar a:hover{
+    color: black;
+    transition: 0.7s;
+    cursor: pointer;
+}
 .corpo {
     display: flex;
     background-color: #fdf8dc;
@@ -241,7 +253,9 @@
 .div4{
     width: 33.33%;
 }
-
+.div4 ul li{
+    margin-top: 8%;
+}
 ul{
     list-style-type: none;
 }
