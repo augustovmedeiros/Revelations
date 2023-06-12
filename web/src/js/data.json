@@ -1,0 +1,173 @@
+{
+    "noticias":{
+        "futebol":[
+        {
+            "manchete": "Abel não está totalmente satisfeito com Dudu no Palmeiras.", 
+            "subtitulo": "Atacante acumula marcas pelo clube alviverde, mas treinador ainda espera que ele melhore num ponto.", 
+            "conteudo": "dudu", 
+            "imagem": "./src/img/noticias/futebol/dudu.jpg"
+        },
+        {
+            "manchete": "Primeiro treino da seleção brasileira em Barcelona tem golaço de Malcom e gritos para Vini Jr.",
+            "subtitulo": "Atacante do Zenit marcou de bicicleta na atividade dessa segunda-feira.",
+            "conteudo": "",
+            "imagem": "./src/img/noticias/futebol/malcom.jpg"
+        },
+        {
+            "manchete": "Diniz lamenta falha do Fluminense na bola parada, mas aponta erro de arbitragem: “Não foi escanteio”.",
+            "subtitulo": "Técnico elogiou primeiro tempo do Flu no 2 a 2 com o Goiás na Serrinha.",
+            "conteudo": "",
+            "imagem": "./src/img/noticias/futebol/diniz.jpg"
+        },
+        {
+            "manchete": "“Ele decidiu que quer isso”; Hulk recebe proposta para voltar a Europa e decisão do jogador agita os bastidores do Atlético.",
+            "subtitulo": "Atacante tem contrato com o time mineiro até o final de 2024 e é o artilheiro da equipe nos últimos anos.",
+            "conteudo": "",
+            "imagem": "./src/img/noticias/futebol/hulk.webp"
+        }],
+        "games":[
+        {
+            "manchete": "Imperial, FURIA e paiN disputarão a IEM Cologne 2023",
+            "subtitulo": "As 24 equipes que disputarão a IEM Cologne 2023 foram definidas. Por meio de suas redes sociais, na tarde desta segunda-feira (12), a ESL confirmou a lista de participantes do torneio de $1 milhão, o qual está marcado para acontecer entre os dias 25 de julho e 6 de agosto.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/games/cologne.jpg"
+        },
+        {
+            "manchete": "Participantes do Ascension Americas estão definidos.",
+            "subtitulo": "Neste final de semana, foram definidos os últimos times classificados para a Liga de Ascensão das Américas. O campeonato acontece entre os dias 30 de junho e 9 de julho e classifica apenas uma equipe para as duas próximas temporadas do VCT Americas League.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/games/valorant.png"
+            
+        },
+        {
+            "manchete": "Campeã, w7m é 1ª classificada para Six Invitational no Brasil.",
+            "subtitulo": "Time brasileiro se classificou para o campeonato mundial de Rainbow Six ao conquistar o BLAST R6 Major Copenhagen 2023 nesse domingo.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/games/wm.webp"
+        },
+        {
+            "manchete": "CBLOL 2023: “É bom ganhar da LOUD”, diz Dynquedo após vitória.",
+            "subtitulo": "A paiN começou vencendo a LOUD no CBLOL 2023 2° split e com isso teve sua revanche da  final do 1° split. Dynquedo, mid laner da organização, falou com o Mais Esports após a vitória. ",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/games/lol.jpg"
+        }],
+        "mundo":[
+        {
+            "manchete": "Crianças encontradas após 40 dias na selva são levadas a hospital em Bogotá.",
+            "subtitulo": "Irmãos estavam desaparecidos desde 1º de maio, quando caiu o avião em que viajavam. A mãe deles, o piloto e outro passageiro morreram.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/mundo/indio.webp"
+        },
+        {
+            "manchete": "Dudu Camargo é demitido pelo SBT após ter defecado no meio de seu camarim e se limpado com uma toalha do local.",
+            "subtitulo": "Ele ainda teria escondido a toalha atrás do micro-ondas de seu camarim, afirma TVPop!",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/mundo/duducamargo.jpeg"
+        },
+        {
+            "manchete": "VÍDEO: “Já assistiu filme do Jason?”, diz ex-marido com facão na mão.",
+            "subtitulo": "Leonardo Henrique Pinheiro Brito, de 37 anos, foi preso na noite dessa sexta-feira (9/6) em Santos, litoral de São Paulo, após descumprir uma medida protetiva de urgência.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/mundo/marido.jpg"
+        },
+        {
+            "manchete": "Ex-oficial do Pentágono acusa governo dos EUA de esconder espaçonave alienígena.",
+            "subtitulo": "Em uma reviravolta digna de um romance de ficção científica, o ex-oficial de inteligência do Pentágono, David Grusch, está acusando o governo dos Estados Unidos de conduzir um programa altamente secreto de recuperação de uma espaçonave alienígena.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/mundo/alien.jpg"
+        },
+        {
+            "manchete": "James da salada de fruta se revolta em seu instagram.",
+            "subtitulo": "Após fake-news divulgando sua morte, James vem a publico mostrar que está bem.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/mundo/james.jfif"
+        }],
+        "tech":[
+        {
+            "manchete": "99 lança modalidade para que motorista e passageiro negociem preço da corrida.",
+            "subtitulo": "Até o final de junho, o objetivo da empresa é oferecer o recurso, chamado de 99Negocia, para ao menos 232 cidades brasileiras.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/tech/taxi.webp"
+        },
+        {
+            "manchete": "Zuckerberg alfineta novos óculos da Apple: 'Custam sete vezes mais que o da Meta'.",
+            "subtitulo": "Dono do Facebook ainda disse que essa pode ser a visão do futuro da computação da Apple, mas que, para ele, não parece ser interessante.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/tech/zuck.webp"
+        },
+        {
+            "manchete": "Microsoft é multada em US$ 20 milhões por coletar dados de crianças em jogos online do Xbox.",
+            "subtitulo": "Agência de defesa do consumidor dos EUA acusa empresa de coletar e manter, para benefício próprio, informações de menores que se inscreveram na plataforma de jogos sem contar aos pais.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/tech/xbox.webp"
+        },
+        {
+            "manchete": "Três astronautas chineses retornam à Terra após missão de ‘sucesso absoluto’",
+            "subtitulo": "Na semana passada, a China enviou três novos astronautas para a estação espacial do país. Trio que retornou para a Terra neste domingo (4) passou seis meses no espaço.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/tech/japa.webp"
+        }],
+        "tv":[
+        {
+            "manchete": "Globo fecha parceria inédita com a Disney para coprodução de filmes brasileiros",
+            "subtitulo": "Segundo comunicado, 'o acordo resultará na produção de quatro longas-metragens, que serão lançados, um por ano'. Projetos serão exibidos nos cinemas, no Globoplay e em um dos serviços de streaming da Disney.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/tv/globo.webp"
+        },
+        {
+            "manchete": "Ana Maria Braga usa peruca em homenagem a Tina Turner e abre 'Mais Você' com hit da cantora",
+            "subtitulo": "'Ídolos da gente tem que ser homenageados', afirmou a apresentadora, que começou o programa matinal com 'The Best'.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/tv/braga.webp"
+        },
+        {
+            "manchete": "Sylvester Stallone, esposa e as três filhas estrelam reality show 'A Família Stallone'",
+            "subtitulo": "Eles seguem os passos de outras celebridades, como os Osbournes e as Kardashians. Ator diz que, apesar da fama e do dinheiro, eles têm 'os mesmos problemas' de outras famílias.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/tv/lone.webp"
+        },
+        {
+            "manchete": "3ª temporada de 'Malhação' estreia no Globoplay: Relembre história escrita por Carlos Lombardi",
+            "subtitulo": "Exibida em 1997, novela passou a falar de sexo mais abertamente e de maneira didática, não apenas para os jovens, mas também para os seus pais.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/tv/malha.webp"
+        }],
+        "cinema":[
+        {
+            "manchete": "Oppenheimer: Por que o filme sobre o 'pai da bomba atômica' irritou Tom Cruise?",
+            "subtitulo": "Tom Cruise ligou para executivos e reclamou sobre 'Oppenheimer', filme de Cristopher Nolan.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/cinema/ope.jpg"
+        },
+        {
+            "manchete": "Barbie: Amy Schumer deixou projeto por roteiro não ser tão 'legal e feminista'.",
+            "subtitulo": "Atriz chegou a ser anunciada como protagonista de filme da boneca.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/cinema/amy.webp"
+        },
+        {
+            "manchete": "Tom Holland está 'animado' com roteiro de Homem-Aranha 4, mas ignora greve dos roteiristas.",
+            "subtitulo": "Homem-Aranha 4 segue sem elenco ou data de estreia definidos.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/cinema/tom.jpg"
+        },
+        {
+            "manchete": "'Não vou mentir': Ator de The Flash ficou insatisfeito com filme e confessa ter pedido bênção de Zack Snyder",
+            "subtitulo": "Michael Shannon foi sincero sobre seu retorno em The Flash.",
+            "conteudo": "",
+            "imagem":"./src/img/noticias/cinema/flash.webp"
+        }]
+    },
+    "quizes":{
+        "celebridades":[{
+            "titulo": "Qual cabelo do Neymar combina mais com você?",
+            "subtitulo": "Esse é o teste pra quem não tira o Ney da cabeça.",
+            "imagem": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_320,h_230/image-uploads/quiz-question-alternative-image/jpeg/00f49640631f1e6f387c86ee8156921f.jpg"
+            }],
+        "musica":[{
+            "titulo": "Quem você seria no BTS?",
+            "subtitulo": "Todos os garotos do BTS são lindos, fofos e talentosos. Mas quem você seria se fosse um deles?",
+            "imagem": "https://popnow.com.br/wp-content/uploads/2020/09/BTS.jpeg"
+            }]
+    }
+}
