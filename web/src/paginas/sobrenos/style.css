@@ -4,6 +4,73 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
 }
+.hamburguer{
+    transition: .7s;
+    width: 5%;
+}
+.hamburguer:hover{
+    transform: scale(1.2);
+    transition: transform .7s ease;
+    cursor: pointer;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #222222;
+    height: 50%;
+}
+
+.rvlt {
+    width: 30%;
+}
+
+.lupa {
+    margin-bottom: 0.5%;
+    margin-top: 0.5%;
+    width: 3.5%;
+    height: 2%;
+    transition: .7s;
+}
+
+.lupa:hover {
+    transform: scale(1.2);
+    transition: transform .7s ease;
+    cursor: pointer;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Righteous;
+    color: white;
+    background-color: #c52673;
+    height: 50%;
+    cursor: pointer;
+}
+.navbar a{
+    all: unset;
+    margin: 1%;
+    transition: 0.7s;
+}
+.navbar button {
+    all: unset;
+    margin: 1%;
+    transition: 0.7s;
+}
+
+.navbar button:hover {
+    color: black;
+    transition: 0.7s;
+    
+
+}
+.navbar a:hover{
+    color: black;
+    transition: 0.7s;
+    cursor: pointer;
+}
 body {
     background-color: #f5f5f5;
 }
@@ -56,7 +123,6 @@ h1 {
 .icons {
     width: 50%;
     min-width: 180px;
-    margin: auto;
     display: flex;
     justify-content: space-between;
 }
