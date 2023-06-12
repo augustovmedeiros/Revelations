@@ -79,7 +79,7 @@
         {
             "manchete": "James da salada de fruta se revolta em seu instagram.",
             "subtitulo": "Após fake-news divulgando sua morte, James vem a publico mostrar que está bem.",
-            "conteudo": "",
+            "conteudo": "dsadasdasd",
             "imagem":"./src/img/noticias/mundo/james.jfif"
         }],
         "tech":[
@@ -162,11 +162,13 @@
         "celebridades":[{
             "titulo": "Qual cabelo do Neymar combina mais com você?",
             "subtitulo": "Esse é o teste pra quem não tira o Ney da cabeça.",
+            "conteudo": "https://buzzfeed.com.br/quiz/qual-cabelo-do-neymar-combina-mais-com-voce",
             "imagem": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_320,h_230/image-uploads/quiz-question-alternative-image/jpeg/00f49640631f1e6f387c86ee8156921f.jpg"
             }],
         "musica":[{
             "titulo": "Quem você seria no BTS?",
             "subtitulo": "Todos os garotos do BTS são lindos, fofos e talentosos. Mas quem você seria se fosse um deles?",
+            "conteudo": "https://buzzfeed.com.br/quiz/qual-membro-do-bts-e-voce",
             "imagem": "https://popnow.com.br/wp-content/uploads/2020/09/BTS.jpeg"
             }]
     }

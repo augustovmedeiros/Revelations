@@ -34,7 +34,7 @@ function adicionarQuiz(quizesHtml, quiz) {
     </div>
     <div class="footerq">
         <p class="tagq"></p>
-        <a href=""><button type="button" class="actionq">Descubra!</button></a>
+        <a href="` + quiz["conteudo"] + `"><button type="button" class="actionq">Descubra!</button></a>
     </div>
 </div>`;
 }

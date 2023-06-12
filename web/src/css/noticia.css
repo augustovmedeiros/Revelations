@@ -1,0 +1,205 @@
+@charset "UTF-8";
+
+@import 'https://fonts.googleapis.com/css?family=Righteous';
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+.hamburguer{
+    transition: .7s;
+    width: 5%;
+}
+.hamburguer:hover{
+    transform: scale(1.2);
+    transition: transform .7s ease;
+    cursor: pointer;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #222222;
+    height: 50%;
+}
+
+.rvlt {
+    width: 30%;
+}
+
+.lupa {
+    margin-bottom: 0.5%;
+    margin-top: 0.5%;
+    width: 3.5%;
+    height: 2%;
+    transition: .7s;
+}
+
+.lupa:hover {
+    transform: scale(1.2);
+    transition: transform .7s ease;
+    cursor: pointer;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Righteous;
+    color: white;
+    background-color: #c52673;
+    height: 50%;
+    cursor: pointer;
+}
+.navbar a{
+    all: unset;
+    margin: 1%;
+    transition: 0.7s;
+}
+.navbar button {
+    all: unset;
+    margin: 1%;
+    transition: 0.7s;
+}
+
+.navbar button:hover {
+    color: black;
+    transition: 0.7s;
+    
+
+}
+.navbar a:hover{
+    color: black;
+    transition: 0.7s;
+    cursor: pointer;
+}
+.corpo {
+    display: flex;
+    background-color: #fdf8dc;
+
+}
+
+/* NOTICIA */
+
+.noticia{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20%;
+    width: 60%;
+    height: 70em;
+    background-color: rgb(234, 200, 250);
+}
+
+.conteudo{
+    text-align: center;
+    align-content: center;
+    color: #000;
+}
+
+/* NOTICIA */
+
+/* footer */
+
+#principal{
+    display: flex;
+    text-align: center;
+    background-color: #c52673;
+    padding: 20px;
+}
+
+.div2{
+    width: 33.33%;
+}
+
+.div3{
+    width: 33.33%;
+}
+
+.div4{
+    width: 33.33%;
+}
+.div4 ul li{
+    margin-top: 8%;
+}
+ul{
+    list-style-type: none;
+}
+
+li{
+    text-align: center;
+    margin-right: 2.2em;
+    margin-top: 1em;
+    margin-left: 3em;
+    color: white;
+    font-family: "Open Sans";
+}
+
+li > a{
+    text-decoration: none;
+    color: white;
+}
+
+li > a:hover{
+    color: black;
+    transition: 0.7s;
+}
+
+h1{
+    color: white;
+    font-family: "Open Sans";
+}
+
+.logolinkedin{
+    width: 40px
+}
+
+.logolinkedin:hover{
+    transform: scale(1.2);
+    transition: transform .7s ease;
+}
+
+.logogit{
+    width: 40px;
+}
+
+.logogit:hover{
+    transform: scale(1.2);
+    transition: transform .7s ease;
+}
+
+.logoinsta{
+    width: 40px;
+}
+
+.logoinsta:hover{
+    transform: scale(1.2);
+    transition: transform .7s ease;
+}
+
+.lista {
+    width: 33.33%;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    padding: 0;
+    position: relative;
+  }
+  
+  .lista::after {
+    content: "";
+    position: absolute;
+    top: 40px;
+    bottom: 40px;
+    right: 0;
+    width: 3px;
+    border-radius: 2em;
+    background-color: #000;
+  }
+  
+  .lista li {
+    padding-right: 20px;
+  }
+
