@@ -4,158 +4,224 @@
         {
             "manchete": "Abel não está totalmente satisfeito com Dudu no Palmeiras.", 
             "subtitulo": "Atacante acumula marcas pelo clube alviverde, mas treinador ainda espera que ele melhore num ponto.", 
-            "conteudo": "dudu", 
+            "conteudo": "https://www.mg.superesportes.com.br/app/noticias/futebol/palmeiras/2023/06/07/noticia_palmeiras,3997124/abel-nao-esta-totalmente-satisfeito-com-dudu-no-palmeiras-por-um-motivo.shtml", 
             "imagem": "./src/img/noticias/futebol/dudu.jpg"
         },
         {
             "manchete": "Primeiro treino da seleção brasileira em Barcelona tem golaço de Malcom e gritos para Vini Jr.",
             "subtitulo": "Atacante do Zenit marcou de bicicleta na atividade dessa segunda-feira.",
-            "conteudo": "",
+            "conteudo": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2023/06/12/primeiro-treino-da-selecao-brasileira-em-barcelona-tem-golaco-de-malcom-e-gritos-para-vini-jr.ghtml",
             "imagem": "./src/img/noticias/futebol/malcom.jpg"
         },
         {
             "manchete": "Diniz lamenta falha do Fluminense na bola parada, mas aponta erro de arbitragem: “Não foi escanteio”.",
             "subtitulo": "Técnico elogiou primeiro tempo do Flu no 2 a 2 com o Goiás na Serrinha.",
-            "conteudo": "",
+            "conteudo": "https://ge.globo.com/futebol/times/fluminense/noticia/2023/06/11/diniz-diz-que-fluminense-cedeu-empate-por-erros-e-lamenta-gol-de-bola-parada.ghtml",
             "imagem": "./src/img/noticias/futebol/diniz.jpg"
         },
         {
             "manchete": "“Ele decidiu que quer isso”; Hulk recebe proposta para voltar a Europa e decisão do jogador agita os bastidores do Atlético.",
             "subtitulo": "Atacante tem contrato com o time mineiro até o final de 2024 e é o artilheiro da equipe nos últimos anos.",
-            "conteudo": "",
+            "conteudo": "https://br.bolavip.com/futebol/Ele-decidiu-que-quer-isso-Hulk-recebe-proposta-para-voltar-a-Europa-e-decisao-do-jogador-agita-os-bastidores-do-Atletico--20230512-0029.html",
             "imagem": "./src/img/noticias/futebol/hulk.webp"
+        },
+        {
+            "manchete": "Figueirense atrás de um novo técnico para substituir Roberto Fonseca; veja nomes",
+            "subtitulo": "Furacão está no mercado para um novo comandante para a Série C",
+            "conteudo": "https://ge.globo.com/sc/futebol/times/figueirense/noticia/2023/06/13/figueirense-atras-de-um-novo-tecnico-para-substituir-roberto-fonseca-veja-nomes.ghtml",
+            "imagem": "./src/img/noticias/futebol/roberto.webp"
+        },
+        {
+            "manchete": "Jejum de gols! Muriqui não marca há cinco jogos, maior período com a camisa do Remo",
+            "subtitulo": "Artilheiro azulina na temporada, atacante não balança as redes desde o dia 22 de maio",
+            "conteudo": "https://ge.globo.com/pa/futebol/times/remo/noticia/2023/06/13/jejum-de-gols-muriqui-nao-marca-ha-cinco-jogos-maior-periodo-com-a-camisa-do-remo.ghtml",
+            "imagem": "./src/img/noticias/futebol/muriqui.webp"
         }],
         "games":[
         {
             "manchete": "Imperial, FURIA e paiN disputarão a IEM Cologne 2023",
             "subtitulo": "As 24 equipes que disputarão a IEM Cologne 2023 foram definidas. Por meio de suas redes sociais, na tarde desta segunda-feira (12), a ESL confirmou a lista de participantes do torneio de $1 milhão, o qual está marcado para acontecer entre os dias 25 de julho e 6 de agosto.",
-            "conteudo": "",
+            "conteudo": "https://draft5.gg/noticia/imperial-furia-e-pain-disputarao-a-iem-cologne-2023",
             "imagem":"./src/img/noticias/games/cologne.jpg"
         },
         {
             "manchete": "Participantes do Ascension Americas estão definidos.",
             "subtitulo": "Neste final de semana, foram definidos os últimos times classificados para a Liga de Ascensão das Américas. O campeonato acontece entre os dias 30 de junho e 9 de julho e classifica apenas uma equipe para as duas próximas temporadas do VCT Americas League.",
-            "conteudo": "",
+            "conteudo": "https://valorantzone.gg/noticia/participantes-do-ascension-americas-estao-definidos/",
             "imagem":"./src/img/noticias/games/valorant.png"
             
         },
         {
             "manchete": "Campeã, w7m é 1ª classificada para Six Invitational no Brasil.",
             "subtitulo": "Time brasileiro se classificou para o campeonato mundial de Rainbow Six ao conquistar o BLAST R6 Major Copenhagen 2023 nesse domingo.",
-            "conteudo": "",
+            "conteudo": "https://ge.globo.com/esports/rainbow-6/noticia/2023/05/08/c-campea-w7m-e-1a-classificada-para-six-invitational-no-brasil.ghtml",
             "imagem":"./src/img/noticias/games/wm.webp"
         },
         {
             "manchete": "CBLOL 2023: “É bom ganhar da LOUD”, diz Dynquedo após vitória.",
             "subtitulo": "A paiN começou vencendo a LOUD no CBLOL 2023 2° split e com isso teve sua revanche da  final do 1° split. Dynquedo, mid laner da organização, falou com o Mais Esports após a vitória. ",
-            "conteudo": "",
+            "conteudo": "https://maisesports.com.br/cblol-2023-e-bom-ganhar-da-loud-diz-pain-dynquedo-apos-vitoria/",
             "imagem":"./src/img/noticias/games/lol.jpg"
+        },
+        {
+            "manchete": "FURIA tem interesse em FalleN, diz site.",
+            "subtitulo": "Clube teria sondado situação do Professor junto à Imperial.",
+            "conteudo": "https://draft5.gg/noticia/furia-tem-interesse-em-fallen-diz-site",
+            "imagem":"./src/img/noticias/games/fallen.png"
+        },
+        {
+            "manchete": "peacemaker comenta saída da LOS: “Não estou feliz com a situação”.",
+            "subtitulo": "Treinador ficou pouco mais de um mês no comando do time.",
+            "conteudo": "https://draft5.gg/noticia/peacemaker-comenta-saida-da-los-nao-estou-feliz-com-a-situacao",
+            "imagem":"./src/img/noticias/games/peace.png"
         }],
         "mundo":[
         {
             "manchete": "Crianças encontradas após 40 dias na selva são levadas a hospital em Bogotá.",
             "subtitulo": "Irmãos estavam desaparecidos desde 1º de maio, quando caiu o avião em que viajavam. A mãe deles, o piloto e outro passageiro morreram.",
-            "conteudo": "",
+            "conteudo": "https://g1.globo.com/mundo/noticia/2023/06/10/criancas-sobreviventes-de-acidente-de-aviao-recebem-assistencia-medica-em-bogota-apos-semanas-na-selva.ghtml",
             "imagem":"./src/img/noticias/mundo/indio.webp"
         },
         {
             "manchete": "Dudu Camargo é demitido pelo SBT após ter defecado no meio de seu camarim e se limpado com uma toalha do local.",
             "subtitulo": "Ele ainda teria escondido a toalha atrás do micro-ondas de seu camarim, afirma TVPop!",
-            "conteudo": "",
+            "conteudo": "https://www.correiobraziliense.com.br/diversao-e-arte/2023/06/5101429-dudu-camargo-se-pronuncia-pela-primeira-vez-apos-demissao-do-sbt-veja.html",
             "imagem":"./src/img/noticias/mundo/duducamargo.jpeg"
         },
         {
             "manchete": "VÍDEO: “Já assistiu filme do Jason?”, diz ex-marido com facão na mão.",
             "subtitulo": "Leonardo Henrique Pinheiro Brito, de 37 anos, foi preso na noite dessa sexta-feira (9/6) em Santos, litoral de São Paulo, após descumprir uma medida protetiva de urgência.",
-            "conteudo": "",
+            "conteudo": "https://www.metropoles.com/sao-paulo/video-ja-assistiu-filme-do-jason-diz-ex-marido-com-facao-na-mao",
             "imagem":"./src/img/noticias/mundo/marido.jpg"
         },
         {
             "manchete": "Ex-oficial do Pentágono acusa governo dos EUA de esconder espaçonave alienígena.",
             "subtitulo": "Em uma reviravolta digna de um romance de ficção científica, o ex-oficial de inteligência do Pentágono, David Grusch, está acusando o governo dos Estados Unidos de conduzir um programa altamente secreto de recuperação de uma espaçonave alienígena.",
-            "conteudo": "",
+            "conteudo": "https://oglobo.globo.com/mundo/epoca/noticia/2023/06/ex-oficial-de-inteligencia-dos-eua-diz-que-governo-tem-ovnis-intactos-nasa-nega-origem-extraterrestre.ghtml",
             "imagem":"./src/img/noticias/mundo/alien.jpg"
         },
         {
             "manchete": "James da salada de fruta se revolta em seu instagram.",
             "subtitulo": "Após fake-news divulgando sua morte, James vem a publico mostrar que está bem.",
-            "conteudo": "dsadasdasd",
+            "conteudo": "https://www.youtube.com/shorts/cOSil2MG9gE",
             "imagem":"./src/img/noticias/mundo/james.jfif"
+        },
+        {
+            "manchete": "NX Zero anuncia shows no Rio de Janeiro.",
+            "subtitulo": "Banda irá se apresentar em duas datas diferentes na capital em novembro.",
+            "conteudo": "https://tracklist.com.br/nx-zero-rio-de-janeiro/162806",
+            "imagem":"./src/img/noticias/mundo/nx.png"
         }],
         "tech":[
         {
             "manchete": "99 lança modalidade para que motorista e passageiro negociem preço da corrida.",
             "subtitulo": "Até o final de junho, o objetivo da empresa é oferecer o recurso, chamado de 99Negocia, para ao menos 232 cidades brasileiras.",
-            "conteudo": "",
+            "conteudo": "https://g1.globo.com/tecnologia/noticia/2023/06/12/99-lanca-modalidade-para-que-motorista-e-passageiro-negociem-preco-da-corrida.ghtml",
             "imagem":"./src/img/noticias/tech/taxi.webp"
         },
         {
             "manchete": "Zuckerberg alfineta novos óculos da Apple: 'Custam sete vezes mais que o da Meta'.",
             "subtitulo": "Dono do Facebook ainda disse que essa pode ser a visão do futuro da computação da Apple, mas que, para ele, não parece ser interessante.",
-            "conteudo": "",
+            "conteudo": "https://www.osul.com.br/mark-zuckerberg-alfineta-os-novos-oculos-de-realidade-mista-da-apple-custam-sete-vezes-mais-que-os-da-meta/#:~:text=Trata%2Dse%20de%20uma%20pe%C3%A7a,outros%20tamanhos%2C%20caso%20seja%20necess%C3%A1rio.",
             "imagem":"./src/img/noticias/tech/zuck.webp"
         },
         {
             "manchete": "Microsoft é multada em US$ 20 milhões por coletar dados de crianças em jogos online do Xbox.",
             "subtitulo": "Agência de defesa do consumidor dos EUA acusa empresa de coletar e manter, para benefício próprio, informações de menores que se inscreveram na plataforma de jogos sem contar aos pais.",
-            "conteudo": "",
+            "conteudo": "https://plantaodoslagos.com.br/categoria/info-games/microsoft-e-multada-em-us-20-milhoes-por-coletar-dados-de-criancas/#:~:text=A%20Microsoft%20ter%C3%A1%20de%20pagar,regulador%20de%20com%C3%A9rcio%20dos%20EUA.",
             "imagem":"./src/img/noticias/tech/xbox.webp"
         },
         {
             "manchete": "Três astronautas chineses retornam à Terra após missão de ‘sucesso absoluto’",
             "subtitulo": "Na semana passada, a China enviou três novos astronautas para a estação espacial do país. Trio que retornou para a Terra neste domingo (4) passou seis meses no espaço.",
-            "conteudo": "",
+            "conteudo": "https://g1.globo.com/tecnologia/noticia/2023/06/04/tres-astronautas-chineses-retornaram-a-terra-apos-missao-de-sucesso-absoluto.ghtml",
             "imagem":"./src/img/noticias/tech/japa.webp"
+        },
+        {
+            "manchete": "A radical influência da tecnologia no sono das pessoas",
+            "subtitulo": "De monitores de sono até medicamentos para ficar acordado, o século 21 vem trazendo uma série de novas tecnologias que pode alterar radicalmente a forma como dormimos.",
+            "conteudo": "https://g1.globo.com/saude/noticia/2023/06/13/a-radical-influencia-da-tecnologia-no-sono-das-pessoas.ghtml",
+            "imagem":"./src/img/noticias/tech/sono.webp"
+        },
+        {
+            "manchete": "Por que garantir segurança da inteligência artificial não é tão fácil como se pensa",
+            "subtitulo": "A inteligência artificial pode melhorar muito nossas vidas ou destruir todos nós, dizem os especialistas — como torná-la segura?",
+            "conteudo": "https://g1.globo.com/tecnologia/noticia/2023/06/13/por-que-garantir-seguranca-da-inteligencia-artificial-nao-e-tao-facil-como-se-pensa.ghtml",
+            "imagem":"./src/img/noticias/tech/ia.webp"
         }],
         "tv":[
         {
-            "manchete": "Globo fecha parceria inédita com a Disney para coprodução de filmes brasileiros",
+            "manchete": "Globo fecha parceria inédita com a Disney para coprodução de filmes brasileiros.",
             "subtitulo": "Segundo comunicado, 'o acordo resultará na produção de quatro longas-metragens, que serão lançados, um por ano'. Projetos serão exibidos nos cinemas, no Globoplay e em um dos serviços de streaming da Disney.",
-            "conteudo": "",
+            "conteudo": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2023/06/01/globo-fecha-parceria-inedita-com-a-disney-para-coproducao-de-filmes-brasileiros.ghtml",
             "imagem":"./src/img/noticias/tv/globo.webp"
         },
         {
-            "manchete": "Ana Maria Braga usa peruca em homenagem a Tina Turner e abre 'Mais Você' com hit da cantora",
+            "manchete": "Ana Maria Braga usa peruca em homenagem a Tina Turner e abre 'Mais Você' com hit da cantora.",
             "subtitulo": "'Ídolos da gente tem que ser homenageados', afirmou a apresentadora, que começou o programa matinal com 'The Best'.",
-            "conteudo": "",
+            "conteudo": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2023/05/25/ana-maria-braga-usa-peruca-em-homenagem-a-tina-turner-e-abre-mais-voce-com-hit-da-cantora.ghtml",
             "imagem":"./src/img/noticias/tv/braga.webp"
         },
         {
-            "manchete": "Sylvester Stallone, esposa e as três filhas estrelam reality show 'A Família Stallone'",
+            "manchete": "Sylvester Stallone, esposa e as três filhas estrelam reality show 'A Família Stallone'.",
             "subtitulo": "Eles seguem os passos de outras celebridades, como os Osbournes e as Kardashians. Ator diz que, apesar da fama e do dinheiro, eles têm 'os mesmos problemas' de outras famílias.",
-            "conteudo": "",
+            "conteudo": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2023/05/16/sylvester-stallone-esposa-e-as-tres-filhas-estrelam-reality-show-a-familia-stallone.ghtml",
             "imagem":"./src/img/noticias/tv/lone.webp"
         },
         {
-            "manchete": "3ª temporada de 'Malhação' estreia no Globoplay: Relembre história escrita por Carlos Lombardi",
+            "manchete": "3ª temporada de 'Malhação' estreia no Globoplay: Relembre história escrita por Carlos Lombardi.",
             "subtitulo": "Exibida em 1997, novela passou a falar de sexo mais abertamente e de maneira didática, não apenas para os jovens, mas também para os seus pais.",
-            "conteudo": "",
+            "conteudo": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2023/04/24/3a-temporada-de-malhacao-estreia-no-globoplay-relembre-historia-escrita-por-carlos-lombardi.ghtml",
             "imagem":"./src/img/noticias/tv/malha.webp"
+        },
+        {
+            "manchete": "SBT anuncia dia e horário da estreia de 'Rebelde'.",
+            "subtitulo": "Com direito a nova chamada, SBT revela os detalhes da estreia do sucesso mexicano 'Rebelde'.",
+            "conteudo": "https://www.terra.com.br/diversao/sbt-anuncia-dia-e-horario-da-estreia-de-rebelde,afe44136359377fb3a4303fcf4efadb9jufkzavn.html",
+            "imagem":"./src/img/noticias/tv/rebelde.png"
+        },
+        {
+            "manchete": "Lembra da sexóloga do 'Altas Horas'? Saiba por onde anda Laura Muller e o motivo dela ter sido afastada da Globo.",
+            "subtitulo": "Laura Muller foi por mais de uma década uma figura carimbada do programa 'Altas Horas' apresentado Serginho Groisman. Porém, ela sumiu da atração. Agora entenda o motivo.",
+            "conteudo": "https://www.terra.com.br/diversao/tv/lembra-da-sexologa-do-altas-horas-saiba-por-onde-anda-laura-muller-e-o-motivo-dela-ter-sido-afastada-da-globo,5074a54637a55ecd8cd5652be331586cwelbjoil.html",
+            "imagem":"./src/img/noticias/tv/laura.png"
         }],
         "cinema":[
         {
             "manchete": "Oppenheimer: Por que o filme sobre o 'pai da bomba atômica' irritou Tom Cruise?",
             "subtitulo": "Tom Cruise ligou para executivos e reclamou sobre 'Oppenheimer', filme de Cristopher Nolan.",
-            "conteudo": "",
+            "conteudo": "https://aventurasnahistoria.uol.com.br/noticias/historia-hoje/oppenheimer-por-que-o-filme-sobre-o-pai-da-bomba-atomica-irritou-tom-cruise.phtml",
             "imagem":"./src/img/noticias/cinema/ope.jpg"
         },
         {
             "manchete": "Barbie: Amy Schumer deixou projeto por roteiro não ser tão 'legal e feminista'.",
             "subtitulo": "Atriz chegou a ser anunciada como protagonista de filme da boneca.",
-            "conteudo": "",
+            "conteudo": "https://www.omelete.com.br/filmes/barbie-amy-schumer-deixou-projeto-por-roteiro-nao-ser-tao-legal-e-feminista",
             "imagem":"./src/img/noticias/cinema/amy.webp"
         },
         {
             "manchete": "Tom Holland está 'animado' com roteiro de Homem-Aranha 4, mas ignora greve dos roteiristas.",
             "subtitulo": "Homem-Aranha 4 segue sem elenco ou data de estreia definidos.",
-            "conteudo": "",
+            "conteudo": "https://rollingstone.uol.com.br/cinema/tom-holland-esta-animado-com-roteiro-de-homem-aranha-4-mas-ignora-greve-dos-roteiristas/#:~:text=Cinema-,Tom%20Holland%20est%C3%A1%20'animado'%20com%20roteiro%20de%20Homem%2DAranha,mas%20ignora%20greve%20dos%20roteiristas&text=Um%20dos%20projetos%20mais%20aguardados,%22animado%22%20com%20o%20roteiro.",
             "imagem":"./src/img/noticias/cinema/tom.jpg"
         },
         {
             "manchete": "'Não vou mentir': Ator de The Flash ficou insatisfeito com filme e confessa ter pedido bênção de Zack Snyder",
             "subtitulo": "Michael Shannon foi sincero sobre seu retorno em The Flash.",
-            "conteudo": "",
+            "conteudo": "https://www.terra.com.br/diversao/entre-telas/nao-vou-mentir-ator-de-the-flash-ficou-insatisfeito-com-filme-e-confessa-ter-pedido-bencao-de-zack-snyder,c2a780364decb8c85ec613f8aec5b04bww69f458.html",
             "imagem":"./src/img/noticias/cinema/flash.webp"
+        },
+        {
+            "manchete": "‘Superman’ pode voltar a usar a cueca vermelha por cima do traje, revela James Gunn",
+            "subtitulo": "James Gunn vai realizar um novo filme do ‘Superman‘, mas ainda não sabe se o Homem de Aço usará suas famosas cuecas vermelhas por cima do uniforme.",
+            "conteudo": "https://cinepop.com.br/superman-pode-voltar-a-usar-a-cueca-vermelha-por-cima-do-traje-revela-james-gunn-421572/",
+            "imagem":"./src/img/noticias/cinema/superman.jpg"
+        },
+        {
+            "manchete": "Disney anuncia mudanças no calendário de lançamentos para 2024 e 2025.",
+            "subtitulo": "Nesta terça-feira (13), a Disney anunciou uma série de mudanças em seu calendário de lançamentos.",
+            "conteudo": "https://anmtv.com.br/disney-anuncia-mudancas-no-calendario-de-lancamentos-para-2024-e-2025/",
+            "imagem":"./src/img/noticias/cinema/calendario.png"
         }]
     },
     "quizes":{
@@ -163,13 +229,13 @@
             "titulo": "Qual cabelo do Neymar combina mais com você?",
             "subtitulo": "Esse é o teste pra quem não tira o Ney da cabeça.",
             "conteudo": "https://buzzfeed.com.br/quiz/qual-cabelo-do-neymar-combina-mais-com-voce",
-            "imagem": "https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_auto,dpr_2.0,c_fill,w_320,h_230/image-uploads/quiz-question-alternative-image/jpeg/00f49640631f1e6f387c86ee8156921f.jpg"
+            "imagem": "./src/img/quizes/celebridades/neydobiquini.webp"
             }],
         "musica":[{
             "titulo": "Quem você seria no BTS?",
             "subtitulo": "Todos os garotos do BTS são lindos, fofos e talentosos. Mas quem você seria se fosse um deles?",
             "conteudo": "https://buzzfeed.com.br/quiz/qual-membro-do-bts-e-voce",
-            "imagem": "https://popnow.com.br/wp-content/uploads/2020/09/BTS.jpeg"
+            "imagem": "./src/img/quizes/musica/bts.jpeg"
             }]
     }
 }
